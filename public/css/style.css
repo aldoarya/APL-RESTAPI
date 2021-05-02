@@ -1,0 +1,34 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-white {
+    color: white;
+}
+
+.bg-white {
+    background-color:white;
+}
+
+.bg-grey {
+    background-color: #EEEEEE;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.left-navbar {
+    float: left;
+    background-color:#2d2d2d;
+    width: 20vw;
+    height: 100vh;
+}
+
+.container-data {
+    min-height:100vh;
+}
